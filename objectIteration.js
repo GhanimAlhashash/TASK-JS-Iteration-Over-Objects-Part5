@@ -54,6 +54,7 @@ function addFruit(fruits, id, name, color, taste) {
   fruits.push(addFruit);
   return fruits;
 }
+//this change is to repush
 // console.log(addFruit(fruits,  506,  "Mango", "Yellow", "Sweet" ));
 
 // 4) Write a `countSweetFruits`function that accepts an array of fruit objects `fruits`, and return the number of fruits with a sweet taste
