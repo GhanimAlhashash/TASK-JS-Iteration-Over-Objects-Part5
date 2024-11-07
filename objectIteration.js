@@ -31,7 +31,7 @@ const fruits = [
   },
 ];
 
-// 1) Write a `getFruitColor` function that accepts a `fruit` object as an argument, and returns the color of that `fruit` object
+// 1) Write a `getFruitColor` function that accepts a `fruit` object  hi as an argument, and returns the color of that `fruit` object
 function getFruitColor(fruit) {
   return fruit.color;
 }
